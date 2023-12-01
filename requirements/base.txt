@@ -8,7 +8,7 @@ PyYAML~=3.12
 cookiecutter~=1.6.0
 aws-sam-translator==1.10.0
 docker>=3.3.0
-dateparser~=0.7
+dateparser~=1.1.6
 python-dateutil~=2.6
 pathlib2~=2.3.2; python_version<"3.4"
 requests==2.20.1
