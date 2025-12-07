@@ -14,3 +14,4 @@ pathlib2~=2.3.2; python_version<"3.4"
 requests==2.20.1
 aws_lambda_builders==0.2.0
 serverlessrepo==0.1.8
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
